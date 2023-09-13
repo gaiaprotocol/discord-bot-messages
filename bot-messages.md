@@ -58,7 +58,7 @@
                     "type": 2,
                     "label": "⬢ D'CENT Wallet을 사용중이신가요?",
                     "style": 5,
-                    "url": "[https://discord.com/api/oauth2/authorize?client_id=1135844231869644862&redirect_uri=https%3A%2F%2Fdiscord-asset-verification.gaia.cc%2F&response_type=code&scope=identify%20guilds.members.read](https://docs.gaiaprotocol.com/%ED%95%9C%EA%B5%AD%EC%96%B4%20%EB%AC%B8%EC%84%9C/%ED%99%80%EB%8D%94%20%EC%9D%B8%EC%A6%9D%20%EB%B0%A9%EB%B2%95/#dcent)https://docs.gaiaprotocol.com/%ED%95%9C%EA%B5%AD%EC%96%B4%20%EB%AC%B8%EC%84%9C/%ED%99%80%EB%8D%94%20%EC%9D%B8%EC%A6%9D%20%EB%B0%A9%EB%B2%95/#dcent"
+                    "url": "https://docs.gaiaprotocol.com/%ED%95%9C%EA%B5%AD%EC%96%B4%20%EB%AC%B8%EC%84%9C/%ED%99%80%EB%8D%94%20%EC%9D%B8%EC%A6%9D%20%EB%B0%A9%EB%B2%95/#dcent"
                 }
             ]
         }
